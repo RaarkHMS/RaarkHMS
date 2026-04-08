@@ -11,7 +11,7 @@
 - Computer Science student at Dalhousie University  
 - Interested in game development and 3d modeling
 - Focused on interesting new ideas for entertaiment and fun  
-- Currently improving my programming fundamentals (C#, C++, Java and use of gmae engines)
+- Currently improving my programming fundamentals (C#, C++, Java and use of game engines)
 
 ----------------------------------------
 
