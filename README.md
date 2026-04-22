@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-# Hi, I'm Riddh
+# Hi, I'm Raark
 ### 2nd year Computer Science Student @ Dalhousie University
 
 ----------------------------------------
@@ -42,7 +42,7 @@
 
 ## Contact
 
-- Arkaa.tango@gmail.com
+- rik.arz.had@gmail.com
 <!-- 
 **RaarkHMS/RaarkHMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
